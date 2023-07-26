@@ -52,4 +52,4 @@ If you would like to contribute to this project or provide feedback, please feel
 
 ## License
 
-This project is distributed under the MIT license. See the [LICENSE.md](link to the license file) file for more details.
+This project is distributed under the MIT license. See the [LICENSE.md](LICENSE) file for more details.
